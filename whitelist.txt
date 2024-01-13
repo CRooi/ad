@@ -1,0 +1,2 @@
+assets.woozooo.com
+statics.woozooo.com
